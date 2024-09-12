@@ -34,4 +34,6 @@
 ## 使用技術
 
 - React
+- JavaScript
 - CSS
+- HTML
